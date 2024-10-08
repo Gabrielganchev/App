@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="id_number">Please enter Id number</string>
+    <string name="id_number2">PLease enter id number too</string>
+    <string name="dob">Date of birth</string>
+    <string name="newline">\n</string>
+
+    <string name="Nationality">Nationality</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="Sacitizen">Sa citizen</string>
+    <string name="Permenantresident">Permenant resident</string>
+    <string name="Date">Blabla</string>
+    <string name="yDate">Yeah of birht 20</string>
+    <string name="oldDate">Yeah of Birth 19</string>
+    <string name="Mesec">Mesec</string>
+    <string name="Dden">den</string>
+    <string name="Rnum">Random num</string>
+
+</resources>
